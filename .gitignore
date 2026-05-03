@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Large data files
+single_amplitude_encoding_data.zip
