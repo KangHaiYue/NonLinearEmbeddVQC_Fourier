@@ -10,4 +10,5 @@ wheels/
 .venv
 
 # Large data files
+single_amplitude_encoding_data
 single_amplitude_encoding_data.zip
